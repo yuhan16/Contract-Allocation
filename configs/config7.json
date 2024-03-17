@@ -1,0 +1,21 @@
+{
+    "seed": 765412,
+    
+    "total_type": 4,
+    "total_user": 100,
+    "user_type_num": [30,25,28,17],
+    "user_pos": [],
+    "user_type": [],
+    "user_belief": [],
+    "user_gain": 10,
+
+    "total_robot": 40,
+    "robot_type_num": [12,8,13,7],
+    "robot_pos": [],
+    "robot_type": [],
+    "safe_r": 1,
+    "step" : 0.1,
+    
+    "gam": 0.5,
+    "ws_len": 10
+}
